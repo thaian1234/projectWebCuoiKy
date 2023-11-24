@@ -1,0 +1,8 @@
+package hcmute.com.projectcuoiky.Config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class WebMvcConfig {
+
+}
